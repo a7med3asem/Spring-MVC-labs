@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring-MVC-day1" />
+        <module name="PluralsightGettingStarted" />
+        <module name="Registration" />
+        <module name="Day2_Form_Validation_Upload_Cookie" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Day2_Form_Validation_Upload_Cookie" target="11" />
+      <module name="PluralsightGettingStarted" target="11" />
+      <module name="Registration" target="11" />
+      <module name="Spring-MVC-day1" target="11" />
+      <module name="Spring-MVC-labs" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

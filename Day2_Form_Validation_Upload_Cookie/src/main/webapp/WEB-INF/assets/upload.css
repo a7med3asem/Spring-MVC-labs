@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+}
+
+form{
+    width:30%;
+    margin-left: 35%;
+}
+
+#begin{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#submitBtn{
+    width: 100%;
+}

@@ -1,0 +1,32 @@
+.error{
+    color: #ff0000;
+}
+
+.errorblock{
+    text-align: center;
+    color: #000;
+    background-color: #ffEEEE;
+    border: 2px solid #ff0000;
+    padding: 5px;
+    margin: 15px;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+form{
+    width:20%;
+    margin-left: 40%;
+}
+
+#begin{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#submitBtn{
+    /*margin-left: 70px;*/
+    width: 100%;
+}

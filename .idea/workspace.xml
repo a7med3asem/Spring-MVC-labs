@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Spring-MVC-day1:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0206b33-ffec-428d-95e5-c335ed2ddd80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Spring-MVC-labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Day2_Form_Validation_Upload_Cookie_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Day2_Form_Validation_Upload_Cookie_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PluralsightGettingStarted_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PluralsightGettingStarted_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Registration_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Registration_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Spring_MVC_day1_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Spring_MVC_day1_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_7_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1GettingStarted/Spring-MVC-day1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1GettingStarted/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1GettingStarted/src/main/java/com/web/controller/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1GettingStarted/src/main/webapp/WEB-INF/pages/HelloWorldPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1GettingStarted/src/main/webapp/WEB-INF/spring/mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1GettingStarted/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/Day2_Form_Validation_Upload_Cookie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/java/com/mvc/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/java/com/mvc/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/java/com/mvc/controller/CookieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/java/com/mvc/controller/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/java/com/mvc/controller/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/java/com/mvc/controller/UploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/java/com/mvc/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/java/com/mvc/model/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/java/com/mvc/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/resources/messages_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/resources/static/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/resources/static/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/webapp/WEB-INF/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/webapp/WEB-INF/assets/upload.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/webapp/WEB-INF/jsp/cookie.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/webapp/WEB-INF/jsp/greeting.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/webapp/WEB-INF/jsp/nav.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/webapp/WEB-INF/jsp/registration.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/webapp/WEB-INF/jsp/upload.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/src/main/webapp/WEB-INF/pdf/mvc.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PluralsightGettingStarted/PluralsightGettingStarted.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PluralsightGettingStarted/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PluralsightGettingStarted/src/main/java/com/practice/gettingStarted/GettingStartedApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PluralsightGettingStarted/src/main/java/com/practice/gettingStarted/controller/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PluralsightGettingStarted/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PluralsightGettingStarted/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PluralsightGettingStarted/src/main/webapp/WEB-INF/HelloWeb-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PluralsightGettingStarted/src/main/webapp/WEB-INF/jsp/greeting.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PluralsightGettingStarted/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PluralsightGettingStarted/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/Registration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/java/com/practice/gettingStarted/GettingStartedApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/java/com/practice/gettingStarted/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/java/com/practice/gettingStarted/controller/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/java/com/practice/gettingStarted/controller/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/java/com/practice/gettingStarted/controller/UploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/java/com/practice/gettingStarted/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/java/com/practice/gettingStarted/model/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/java/com/practice/gettingStarted/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/resources/messages_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/resources/static/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/resources/static/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/webapp/WEB-INF/HelloWeb-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/webapp/WEB-INF/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/webapp/WEB-INF/jsp/cookie.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/webapp/WEB-INF/jsp/greeting.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/webapp/WEB-INF/jsp/registration.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/webapp/WEB-INF/jsp/upload.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/webapp/WEB-INF/pdf/mvc.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rmNSVHDEWAFd0R7IPTkiCIbTsK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Day2/pom.xml" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.34827587" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\JETS\Spring MVC\Spring-MVC-labs\Registration\src\main" />
+      <recent name="G:\JETS\Spring MVC\Spring-MVC-labs\Registeration\src\main" />
+      <recent name="G:\JETS\Spring MVC\Spring-MVC-labs\PluralsightGettingStarted\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Day1">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="11">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:7171/Spring_MVC_day1_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Spring-MVC-day1:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Spring_MVC_day1_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="4e95063a-b8b2-489d-833e-0c6e8ea985b8" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61455" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Spring-MVC-day1:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:7171/Day2_MVC_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Registration:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Registration_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="5372098c-bb3b-48dc-b188-77896035636e" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61455" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Registration:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="166829b1-c670-47fe-8516-48ee3f4b23fb" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61455" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 9" />
+      <item itemvalue="Tomcat Server.Day1" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0206b33-ffec-428d-95e5-c335ed2ddd80" name="Default Changelist" comment="" />
+      <created>1619577308300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619577308300</updated>
+      <workItem from="1619577311024" duration="123000" />
+      <workItem from="1619577471353" duration="17706000" />
+      <workItem from="1619864815735" duration="101000" />
+      <workItem from="1619909252137" duration="3890000" />
+      <workItem from="1619959605003" duration="1558000" />
+      <workItem from="1619961267303" duration="179000" />
+      <workItem from="1619970232583" duration="4018000" />
+      <workItem from="1619987699979" duration="1203000" />
+      <workItem from="1620045912192" duration="612000" />
+      <workItem from="1620080840050" duration="31000" />
+      <workItem from="1620218777303" duration="1587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

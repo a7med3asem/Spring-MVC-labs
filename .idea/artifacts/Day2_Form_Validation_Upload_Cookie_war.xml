@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Day2_Form_Validation_Upload_Cookie:war">
+    <output-path>$PROJECT_DIR$/Day2_Form_Validation_Upload_Cookie/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Day2_Form_Validation_Upload_Cookie</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Day2_Form_Validation_Upload_Cookie-0.1.0.war">
+      <element id="artifact" artifact-name="Day2_Form_Validation_Upload_Cookie:war exploded" />
+    </root>
+  </artifact>
+</component>
